@@ -1,6 +1,6 @@
 {
   "name": "ember-resolver",
-  "version": "10.1.0",
+  "version": "10.1.1",
   "description": "The default modules based resolver for Ember CLI.",
   "keywords": [
     "ember-addon"
@@ -23,8 +23,9 @@
   },
   "scripts": {},
   "dependencies": {
-    "@ember/string3": "Gaurav0/ember-string#156cd9a8e119f144d36507426a147103914270b2",
-    "ember-cli-babel": "^7.26.11"
+    "@ember/string3": "Gaurav0/ember-string#e8a120e7297b9c4c7396802790c70e486b7d1f53",
+    "ember-cli-babel": "^7.26.11",
+    "ember-auto-import": "^2.2.1"
   },
   "devDependencies": {},
   "peerDependencies": {
