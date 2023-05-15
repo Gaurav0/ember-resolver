@@ -3,7 +3,7 @@
 import Ember from 'ember';
 import { assert, deprecate, warn } from '@ember/debug';
 import EmberObject from '@ember/object';
-import { dasherize, classify, underscore } from '@ember/string';
+import { dasherize, classify, underscore } from '@ember/string3';
 import { DEBUG } from '@glimmer/env';
 import classFactory from '../../utils/class-factory';
 
